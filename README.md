@@ -140,9 +140,7 @@ React • FastAPI • Gemini API • MongoDB • YouTube API
 # ⏱ Coding Activity
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Babu16102005&theme=tokyonight"/>
-
 </p>
 
 ---
