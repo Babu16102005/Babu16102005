@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ================= TOP ANIMATED CYBER HEADER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,40:01252b,75:004e54,100:00f5d4&height=230&section=header&text=BABU%20B&fontSize=54&fontColor=00f5d4&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Systems%20Engineer&descSize=18&descAlignY=68&descAlign=50" width="100%" />
+<!-- ================= NATIVE ANIMATED CYBER HEADER ================= -->
+<img src="./cyber_header.svg" width="100%" alt="Babu B - Full Stack Developer & AI Systems Engineer" />
 
 <!-- ================= DYNAMIC ANIMATED TYPING SVG ================= -->
 <a href="https://babudev.me">
@@ -206,7 +206,7 @@ experience_telemetry:
 [ TRANSMISSION END ] // Designed with high-performance precision for Babu B
 ```
 
-<!-- ANIMATED FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,40:004e54,75:01252b,100:030712&height=120&section=footer" width="100%" />
+<!-- NATIVE ANIMATED FOOTER WAVE -->
+<img src="./cyber_footer.svg" width="100%" alt="Cyber Footer Wave" />
 
 </div>

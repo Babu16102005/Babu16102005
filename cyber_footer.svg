@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="100%" height="100%">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020914" />
+      <stop offset="100%" stop-color="#030712" />
+    </linearGradient>
+    <linearGradient id="footerWaveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5d4" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#0284c7" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#00ffa3" stop-opacity="0.8" />
+    </linearGradient>
+    <linearGradient id="footerWaveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ffa3" stop-opacity="0.3" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#00f5d4" stop-opacity="0.3" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="120" fill="url(#footerBg)" />
+
+  <!-- Animated Wave Layer 2 (Back) -->
+  <path fill="url(#footerWaveGrad2)">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="
+        M 0,20 Q 250,55 500,25 T 1000,30 L 1000,120 L 0,120 Z;
+        M 0,35 Q 250,10 500,45 T 1000,20 L 1000,120 L 0,120 Z;
+        M 0,20 Q 250,55 500,25 T 1000,30 L 1000,120 L 0,120 Z
+      " />
+  </path>
+
+  <!-- Animated Wave Layer 1 (Front) -->
+  <path fill="url(#footerWaveGrad1)">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="
+        M 0,45 Q 250,15 500,50 T 1000,40 L 1000,120 L 0,120 Z;
+        M 0,30 Q 250,65 500,25 T 1000,45 L 1000,120 L 0,120 Z;
+        M 0,45 Q 250,15 500,50 T 1000,40 L 1000,120 L 0,120 Z
+      " />
+  </path>
+
+  <line x1="0" y1="2" x2="1000" y2="2" stroke="#00f5d4" stroke-width="1.5" stroke-opacity="0.4" />
+</svg>
