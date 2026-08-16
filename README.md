@@ -1,42 +1,34 @@
 <div align="center">
 
-<!-- TOP CYBER HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:002b36,100:00f5d4&height=220&section=header&text=BABU%20B&fontSize=52&fontColor=00f5d4&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Systems%20Engineer&descSize=18&descAlignY=68&descAlign=50" width="100%" />
+<!-- ================= TOP ANIMATED CYBER HEADER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,40:01252b,75:004e54,100:00f5d4&height=230&section=header&text=BABU%20B&fontSize=54&fontColor=00f5d4&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Systems%20Engineer&descSize=18&descAlignY=68&descAlign=50" width="100%" />
 
-<!-- DYNAMIC TYPING SVG -->
+<!-- ================= DYNAMIC ANIMATED TYPING SVG ================= -->
 <a href="https://babudev.me">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Java+%26+Python;Building+Scalable+Backends+%7C+Spring+Boot+%2B+FastAPI;AI+Architect+%7C+Retrieval-Augmented+Generation+(RAG);Crafting+High-Performance+Web+Applications" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%7C+Java+%26+Python+Systems;Building+Scalable+Backends+%7C+Spring+Boot+%2B+FastAPI;AI+Architect+%7C+Retrieval-Augmented+Generation+(RAG);Engineering+Real-Time+Emergency+%26+Messaging+Platforms;B.Tech+IT+Undergrad+%40+Mailam+Engineering+College+(CGPA+8.5)" alt="Typing Animation" />
 </a>
 
 <br/>
 
-<!-- STATUS BADGES -->
+<!-- ================= STATUS & UPLINK PILL BADGES ================= -->
 <p align="center">
   <a href="https://babudev.me"><img src="https://img.shields.io/badge/PORTFOLIO-babudev.me-00F5D4?style=for-the-badge&logo=google-chrome&logoColor=030712&labelColor=030712" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/babu-b"><img src="https://img.shields.io/badge/LINKEDIN-Babu--B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030712" alt="LinkedIn" /></a>
   <a href="mailto:babusanthosh6381@gmail.com"><img src="https://img.shields.io/badge/EMAIL-babusanthosh6381%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030712" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/STATUS-SYSTEM_ONLINE-00FFAA?style=for-the-badge&logo=statuspage&logoColor=00FFAA&labelColor=030712" alt="Status" />
+  <a href="https://github.com/Babu16102005"><img src="https://img.shields.io/badge/STATUS-QUANTUM_CORE_ACTIVE-00FFAA?style=for-the-badge&logo=statuspage&logoColor=00FFAA&labelColor=030712" alt="Status" /></a>
 </p>
 
 </div>
 
 ---
 
-### 🛰️ TELEMETRY & SYSTEM PROFILE
+### 🛰️ LIVE SYSTEM TELEMETRY & NEURAL METRICS
 
-```yaml
-system_profile:
-  developer: "Babu B"
-  role: "Full Stack Developer & AI Systems Engineer"
-  education: "B.Tech in Information Technology @ Mailam Engineering College (2023 – 2027) [CGPA: 8.5/10]"
-  experience: "Former SDE Intern @ MUA Technologies Pvt Ltd (MUA Cloud)"
-  core_focus: "Scalable Microservices, Spring Boot, FastAPI, RAG Architectures & Real-Time Systems"
-  digital_hq: "https://babudev.me"
-  location: "Tamil Nadu, India"
-  system_status: "ONLINE // Architecting Next-Gen Cloud & AI Solutions"
-```
+<div align="center">
+  <img src="./cyber_telemetry.svg" width="100%" alt="Cyber Telemetry Terminal HUD" />
+</div>
 
-> *"Passionate about creating innovative software that combines modern application development and AI to solve real-world challenges. Dedicated to building scalable products, writing clean resilient code, and engineering systems that make an impact."*
+<br/>
 
 ---
 
@@ -44,27 +36,28 @@ system_profile:
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
+| Architecture Layer | Core Stack & Frameworks |
 | :--- | :--- |
-| **Languages** | `Java` • `Python` • `JavaScript (ES6+)` • `SQL` • `HTML5` • `CSS3` |
-| **Backend & APIs** | `Spring Boot` • `FastAPI` • `RESTful APIs` • `WebSockets` • `Microservices` |
-| **Frontend & UI** | `React.js` • `Tailwind CSS` • `Responsive Modern UI/UX` • `Vite` |
-| **Databases & Cloud** | `PostgreSQL` • `Supabase` • `Firebase` • `Appwrite` • `Docker` |
-| **AI & Core CS** | `Retrieval-Augmented Generation (RAG)` • `Data Structures & Algorithms (DSA)` • `Gemini API` |
-| **Developer Tools** | `Git` • `GitHub Actions` • `Postman` • `Linux / Bash` • `VS Code` |
+| **Backend & Microservices** | `Java` • `Spring Boot` • `Python` • `FastAPI` • `REST APIs` • `WebSockets` |
+| **Frontend & UI Engineering** | `React.js` • `JavaScript (ES6+)` • `Tailwind CSS` • `Vite` • `Modern Responsive UX` |
+| **Databases & Cloud Infra** | `PostgreSQL` • `Supabase` • `Appwrite` • `Firebase` • `Docker` • `Linux / Bash` |
+| **AI Systems & Intelligence** | `Retrieval-Augmented Generation (RAG)` • `Gemini API` • `LLM Orchestration` • `DSA` |
+| **Engineering & CI/CD Tools** | `Git` • `GitHub Actions` • `Postman` • `VS Code` • `Self-Hosting Modules` |
 
 <br/>
 
-<!-- ICONS ROW -->
+<!-- ANIMATED TECH ICONS GRID -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,react,js,postgres,supabase,firebase,appwrite,docker,git,github,linux,postman,vscode&perline=8" alt="Tech Skills Grid" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,react,js,postgres,supabase,firebase,appwrite,docker,git,github,linux,postman,vscode&perline=8" alt="Tech Stack Icons" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-### 🚀 FEATURED PRODUCTION & AI PROJECTS
+### 🚀 FEATURED PRODUCTION & AI PLATFORMS
 
 <table>
   <tr>
@@ -72,10 +65,10 @@ system_profile:
       <h3>🤖 SMART MENTIS</h3>
       <p><b>AI-Powered Career Guidance Ecosystem</b></p>
       <ul>
-        <li>Integrated AI chatbot for contextual career guidance & interactive roadmap generation.</li>
-        <li>Dynamic MCQ assessment engine with personalized learning analytics.</li>
-        <li>Integrated REST APIs, AI reasoning models & YouTube recommendation algorithms.</li>
-        <li>Secure authentication & user telemetry tracking.</li>
+        <li>Contextual career AI advisor with interactive multi-step roadmaps.</li>
+        <li>Adaptive MCQ assessment engine with personalized learning analytics.</li>
+        <li>Integrated Gemini AI reasoning & automated YouTube curation algorithms.</li>
+        <li>Secure telemetry tracking & user credential management.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -86,12 +79,12 @@ system_profile:
     </td>
     <td width="33%" valign="top">
       <h3>🚨 VITA5</h3>
-      <p><b>Real-Time Emergency Safety & SOS Application</b></p>
+      <p><b>Real-Time Emergency Safety & SOS Mesh</b></p>
       <ul>
-        <li>Engineered one-tap instant SOS alerts with real-time live location broadcast.</li>
-        <li>Secure cryptographic token authentication & emergency trusted contact mesh.</li>
-        <li>Ultra low-latency interface engineered for split-second emergency accessibility.</li>
-        <li>Cloud database integration for resilient incident dispatch.</li>
+        <li>One-tap instant emergency SOS with live GPS location broadcast.</li>
+        <li>Cryptographic token session auth & trusted contact alert mesh.</li>
+        <li>Engineered for split-second emergency accessibility and zero latency.</li>
+        <li>Cloud database dispatch ledger with automated notification dispatch.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -104,10 +97,10 @@ system_profile:
       <h3>💬 KIBA</h3>
       <p><b>Real-Time High-Throughput Messaging Engine</b></p>
       <ul>
-        <li>Full-duplex real-time private 1-on-1 messaging infrastructure.</li>
-        <li>Persistent message ledger with low-latency event synchronization.</li>
-        <li>Robust RESTful API layer and scalable backend data schemas.</li>
-        <li>Session authentication & end-to-end payload validation.</li>
+        <li>Full-duplex private 1-on-1 messaging infrastructure with WebSockets.</li>
+        <li>Low-latency event synchronization and persistent message ledgers.</li>
+        <li>Robust Spring Boot enterprise backend with relational data indexing.</li>
+        <li>Encrypted session payload validation & client connection pooling.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -121,58 +114,64 @@ system_profile:
 
 ---
 
-### 💼 PROFESSIONAL EXPERIENCE & COMMUNITY LEADERSHIP
+### 💼 PROFESSIONAL EXPERIENCE & LEADERSHIP LOG
 
 ```yaml
-experience_log:
-  - role: Software Engineering Intern
-    organization: MUA Technologies Pvt Ltd (MUA Cloud)
-    timeline: Dec 2025 – Jan 2026
-    highlights:
-      - Deployed 3+ self-hosted application modules, optimizing environment architecture & CI/CD.
-      - Integrated Appwrite Authentication & production database schemas across 3+ live features.
-      - Maintained Git/GitHub collaborative workflows and published 5+ internal technical specs.
+experience_telemetry:
+  - role: "Software Engineering Intern"
+    company: "MUA Technologies Pvt Ltd (MUA Cloud)"
+    timeline: "Dec 2025 – Jan 2026"
+    impact:
+      - "Deployed 3+ self-hosted application modules, optimizing environment architecture & CI/CD."
+      - "Integrated Appwrite Authentication & production database schemas across 3+ live features."
+      - "Maintained Git/GitHub collaborative workflows and authored internal technical architecture docs."
 
-  - role: Event Coordinator
-    event: INTELINFO 2K25 (National Level Technical Symposium)
-    highlights:
-      - Spearheaded operations and technical staging for 300+ engineering participants.
-      - Managed automated registration workflows, schedules, and event delivery.
+  - role: "Event Coordinator"
+    event: "INTELINFO 2K25 (National Level Technical Symposium)"
+    impact:
+      - "Spearheaded technical operations and staging for 300+ engineering participants."
+      - "Streamlined automated attendee registrations, schedules, and event delivery."
 
-  - role: Volunteer & Student Coordinator
-    organization: VGLUG (Villupuram GNU/Linux Users Group)
-    highlights:
-      - Evaluated and interviewed 50+ applicant engineers for open-source technical cohorts.
-      - Coordinated open-source workshops and developer mentorship programs.
+  - role: "Volunteer & Student Coordinator"
+    organization: "VGLUG (Villupuram GNU/Linux Users Group)"
+    impact:
+      - "Evaluated and interviewed 50+ applicant engineers for open-source technical cohorts."
+      - "Coordinated Linux/FOSS developer workshops and open-source mentorship sessions."
 ```
 
 ---
 
-### 🏆 HONORS & CERTIFICATIONS
+### 🏆 CERTIFICATIONS & HONORS
 
-- 🥇 **1st Prize Winner — Technical Paper Presentation (Won 3 Times)**
+- 🥇 **1st Prize Winner — Technical Paper Presentation (3x Champion)**
 - 📜 **IBM SkillsBuild Certification** — *Getting Started With Artificial Intelligence*
 - 📜 **Java Fundamentals Certification** *(August 2025)*
 - 📜 **Python Programming Certification** *(October 2025)*
 
 ---
 
-### 📊 SYSTEM TELEMETRY & GITHUB ANALYTICS
+### 📊 ANIMATED TELEMETRY & GITHUB ACTIVITY
 
 <div align="center">
 
+<!-- STREAK STATS ANIMATION -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Babu16102005&show_icons=true&theme=tokyonight&hide_border=false&border_color=00f5d4&bg_color=030712&title_color=00f5d4&icon_color=00ffa9&text_color=94a3b8" height="175" alt="Babu's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Babu16102005&theme=tokyonight&border=00f5d4&stroke=00f5d4&ring=00ffa3&fire=00f5d4&currStreakNum=00ffa3&sideNums=38bdf8&sideLabels=94a3b8&dates=64748b&background=030712&border_radius=12" alt="GitHub Streak Stats" />
+</p>
+
+<!-- GITHUB STATS & TOP LANGS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Babu16102005&show_icons=true&theme=tokyonight&hide_border=false&border_color=00f5d4&bg_color=030712&title_color=00f5d4&icon_color=00ffa9&text_color=94a3b8&border_radius=12" height="175" alt="Babu's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babu16102005&layout=compact&theme=tokyonight&hide_border=false&border_color=00f5d4&bg_color=030712&title_color=00f5d4&text_color=94a3b8" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babu16102005&layout=compact&theme=tokyonight&hide_border=false&border_color=00f5d4&bg_color=030712&title_color=00f5d4&text_color=94a3b8&border_radius=12" height="175" alt="Top Languages" />
 </p>
 
-<!-- ACTIVITY GRAPH -->
+<!-- CONTRIBUTION ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Babu16102005&theme=tokyo-night&bg_color=030712&color=00f5d4&line=00ffa9&point=38bdf8&hide_border=false&border_color=00f5d4" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Babu16102005&theme=tokyo-night&bg_color=030712&color=00f5d4&line=00ffa9&point=38bdf8&hide_border=false&border_color=00f5d4&border_radius=12" width="95%" alt="Contribution Graph" />
 </p>
 
-<!-- CONTRIBUTION SNAKE -->
+<!-- CONTRIBUTION SNAKE ANIMATION -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Babu16102005/Babu16102005/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%" />
 </p>
@@ -204,10 +203,10 @@ experience_log:
 <br/><br/>
 
 ```
-[ TRANSMISSION END ] // Designed with precision for Babu B
+[ TRANSMISSION END ] // Designed with high-performance precision for Babu B
 ```
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:002b36,100:030712&height=120&section=footer" width="100%" />
+<!-- ANIMATED FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,40:004e54,75:01252b,100:030712&height=120&section=footer" width="100%" />
 
 </div>
