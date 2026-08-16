@@ -161,9 +161,9 @@ experience_telemetry:
 
 <!-- GITHUB STATS & TOP LANGS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Babu16102005&show_icons=true&theme=tokyonight&hide_border=false&border_color=00f5d4&bg_color=030712&title_color=00f5d4&icon_color=00ffa9&text_color=94a3b8&border_radius=12" height="175" alt="Babu's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Babu16102005&show_icons=true&theme=tokyonight&hide_border=false&border_color=00f5d4&bg_color=030712&title_color=00f5d4&icon_color=00ffa9&text_color=94a3b8&border_radius=12" height="175" alt="Babu's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babu16102005&layout=compact&theme=tokyonight&hide_border=false&border_color=00f5d4&bg_color=030712&title_color=00f5d4&text_color=94a3b8&border_radius=12" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Babu16102005&layout=compact&theme=tokyonight&hide_border=false&border_color=00f5d4&bg_color=030712&title_color=00f5d4&text_color=94a3b8&border_radius=12" height="175" alt="Top Languages" />
 </p>
 
 <!-- CONTRIBUTION ACTIVITY GRAPH -->
